@@ -441,7 +441,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="1"
-     inkscape:cx="507.461"
+     inkscape:cx="389.461"
      inkscape:cy="1582.8342"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -7460,7 +7460,7 @@
        inkscape:label="DataOnMapsOff"
        id="g4122"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:none">
       <g
          id="g4124"
          transform="translate(69.832031,0)">
